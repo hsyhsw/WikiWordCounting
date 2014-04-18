@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.eclipse.mylyn.wikitext:wikitext.mediawiki:2.1.0.N20140325-2210">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/mylyn/wikitext/wikitext.mediawiki/2.1.0.N20140325-2210/wikitext.mediawiki-2.1.0.N20140325-2210.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/mylyn/wikitext/wikitext.mediawiki/2.1.0.N20140325-2210/wikitext.mediawiki-2.1.0.N20140325-2210-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/mylyn/wikitext/wikitext.mediawiki/2.1.0.N20140325-2210/wikitext.mediawiki-2.1.0.N20140325-2210-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
